@@ -1,0 +1,2 @@
+# sales_prediction_ML
+A kaggle competition adopted for Redischool of digital Integration final project for data analytics. Historical sales data for 45 Walmart stores located in different regions were provided. Each store contains many departments, and the task is to predict the sales for each department in each store. As a second layer of complexity, selected holiday markdown events are included in the dataset. The markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact.
